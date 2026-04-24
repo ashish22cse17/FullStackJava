@@ -8,5 +8,6 @@ public class Arraysyntax {
             arr[i]=sc.nextInt();
         }
         System.out.println(arr[0]);
+        sc.close();
     }
 }

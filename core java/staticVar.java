@@ -21,7 +21,7 @@ public class staticVar {
        // obj.network="4g";//this will update value of network in all created objects "bt not valid way to do as it is called using object not using class" 
         obj.Display();
         Mobile.pri(); //better to call with class name instead of calling with object
-        obj.pri();
+        // obj.pri();
         
     }
 }

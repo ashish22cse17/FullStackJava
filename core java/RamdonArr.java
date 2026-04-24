@@ -20,6 +20,6 @@ public class RamdonArr {
             }
             System.out.println();
         }
-        
+        svc.close();
     }
 }
